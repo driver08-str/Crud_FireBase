@@ -1,2 +1,2 @@
 # Crud_FireBase
-es una aplicacion que permite, crea, eliminar y enlistar datos
+es una aplicacion que permite, crear, modificar y eliminar datos usando firebase como plataforma
